@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">FirebaseChat</string>
+    <string name="email">Email</string>
+    <string name="missing_email">Please input an email</string>
+    <string name="username">Username</string>
+    <string name="missing_username">Please input a username</string>
+    <string name="password">Password</string>
+    <string name="missing_password">Please input your password</string>
+    <string name="password_too_short">Password must be at least 6 characters long.</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="password_does_not_match">Passwords do not match</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="message">Message</string>
+    <string name="user_and_date">%1$s - %2$te.%2$tm.%2$ty %2$tH:%2$tM</string>
 </resources>
